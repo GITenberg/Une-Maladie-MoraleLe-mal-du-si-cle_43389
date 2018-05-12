@@ -1,0 +1,26 @@
+_repo: Une-Maladie-MoraleLe-mal-du-si-cle_43389
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43389-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Charpentier, Paul
+    gutenberg_agent_id: '42172'
+    url: http://www.gutenberg.org/2009/agents/42172
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2013-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43389'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 18th century -- History and criticism'
+- !lcc 'PQ'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+title: 'Une Maladie Morale: Le mal du siècle'
+url: http://www.gutenberg.org/ebooks/43389
